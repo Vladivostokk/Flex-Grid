@@ -1,0 +1,59 @@
+body {
+    font-family: sans-serif;
+    background-color:#ece1e1;
+    color: black;
+    background-image: url(https://naked-science.ru/wp-content/uploads/2018/04/field_image_istock-516189065.jpg);
+}
+
+.row {
+    margin: 0 auto;
+    box-sizing: border-box;
+}
+
+.block-menu {
+    background-color: #774cbb;
+    box-sizing: border-box;
+    padding: 5px 0 5px 0;
+    color: #fff;
+    margin: -15px 0 15px 0;
+    border-radius: 5px;
+}
+
+.block-menu li {
+    font-family: sans-serif;
+    font-size: 20px;
+    text-decoration: none;
+    list-style: none;
+    padding: 15px 20px;
+    box-sizing: border-box;
+}
+
+.block-menu li:hover {
+    background-color: #a12ba5;
+    box-shadow: inset #423ba3 0 5px 15px;
+    border-radius: 5px;
+    transition: 350ms ease;
+}
+
+.gal {
+    background-color: #e7abcecb;
+    border-radius: 5px;
+    min-height: 90vh;
+    margin: 10px;
+}
+
+
+.block {
+    box-sizing: border-box;
+    margin: 10px 0;
+    color: #fff;
+    border-radius: 2px;
+    border: 2px solid #423ba3;
+}
+
+img {
+    max-width: 100%;
+    padding: 3px 3px 0 3px;
+    border-radius: 2px;
+    box-sizing: border-box;
+}
